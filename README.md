@@ -1,5 +1,5 @@
 # kuku
-This is a app that training kuku.
+This is an app that training kuku.
 
 # Development Info
 * Docker: node:20-slim
